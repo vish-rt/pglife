@@ -9,7 +9,7 @@ PGLife is a locally hosted website to allow outstation students to find housing 
 The website provides with a basic location shortlisting search for accomodations in respective cities and regions. To add on to it's functionalities, it allows you to create an account with your data so the website can help you with the shortlisting. It even allows you to like certain PGs to add them to your interested properties to review in the future.
 
 Tech Stack:<br>
-Front-end: HTML, CSS, JS, React (soon)<br>
+Front-end: HTML, CSS, Bootstrap, JS, React (soon)<br>
 Back-end: PHP<br>
 Database: MySQL
 
